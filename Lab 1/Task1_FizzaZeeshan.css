@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border: 3px solid;
+  box-shadow: 3px 3px maroon;
+}
+
+.media {
+  width: 310px;
+  height: 240px;
+}
+
+.text-styling {
+  font-size: large;
+  font-family: "Courier New", Courier;
+  color: maroon;
+  text-align: center;
+  font-weight: bold;
+}
+
+.summary {
+  font-size: medium;
+  font-family: "Courier New", Courier;
+  color: maroon;
+  text-align: justify;
+}
+
+.table {
+  display: flex;
+  font-family: "Courier New", Courier;
+  width: 100%;
+  border: 3px solid maroon;
+  box-shadow: 3px 3px maroon;
+  margin: auto;
+  color: maroon;
+  font-size: medium;
+  text-align: center;
+}
+
+.logo {
+  float: left;
+  height: 60px;
+}
